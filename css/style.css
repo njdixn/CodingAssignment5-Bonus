@@ -1,0 +1,28 @@
+body {
+    padding-bottom: 20px;
+}
+
+.navbar {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.step-row {
+            height: 200px;
+        }
+        
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Leckerli+One&display=swap');
+
+:root {
+    --bs-body-font-family: 'Delius', cursive;
+}
+
+/*COLOR PALET----------------------
+BACKGROUND - rgb(19, 18, 18); and image
+HEADINGS - #00adb5
+TEXT #fff
+IMEGE BOARDSR - #7cb6b6
+LINKS
+    LINK - #7cb6b6
+    HOVER - Goldenrod
+MAIN TEXT - #fff - White
